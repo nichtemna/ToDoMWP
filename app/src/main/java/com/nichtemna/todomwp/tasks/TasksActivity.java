@@ -25,6 +25,7 @@ public class TasksActivity extends AppCompatActivity {
     public static final String CURRENT_FILTERING_KEY = "CURRENT_FILTERING_KEY";
 
     private DrawerLayout drawerLayout;
+
     private TasksPresenter tasksPresenter;
 
     @Override
